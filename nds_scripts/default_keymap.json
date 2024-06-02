@@ -1,0 +1,14 @@
+{
+  "BTN_A": "z",
+  "BTN_B": "x",
+  "BTN_Y": "a",
+  "BTN_X": "s",
+  "BTN_L": "q",
+  "BTN_R": "w",
+  "BTN_START": "enter",
+  "BTN_SELECT": "space",
+  "BTN_UP": "up",
+  "BTN_DOWN": "down",
+  "BTN_LEFT": "left",
+  "BTN_RIGHT": "right"
+}

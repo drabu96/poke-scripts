@@ -1,0 +1,6 @@
+{
+  "pokemonName": "Mewtwo",
+  "regularSpritePath": "C:\\Path\\to\\mewtwo.png",
+  "shinySpritePath": "C:\\Path\\to\\shiny_mewtwo.png",
+  "proofBattleStartedPath": "C:\\Path\\to\\proof_battle_started.png"
+}
